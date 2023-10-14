@@ -1,0 +1,6 @@
+{
+  "database": {
+    "database1": "Data Source=DESKTOP-4QBB7GD;Initial Catalog=Database1;User ID=sa;Password=68686868",
+    "database2": "Server=localhost;Port=5432;User Id=postgres;Password=187827187;Database=Database2;"
+  }
+}
